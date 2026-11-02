@@ -64,3 +64,5 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 #EXTINF:-1 tvg-name="TRT Çocuk" group-title="Çocuk",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="24 TV (720p)" group-title="Ulusal",24 TV (720p)
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
