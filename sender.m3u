@@ -20,7 +20,7 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 https://demiroren.daioncdn.net/teve2/teve2.m3u8?ce=3&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd
 #EXTINF:-1 tvg-name="Show Türk" group-title="Ulusal",Show Türk
 https://ciner.daioncdn.net/showturk/showturk.m3u8?app=web
-#EXTINF:-1 tvg-name="360" group-title="Ulusal",360
+#EXTINF:-1 tvg-name="TV 360" group-title="Haber",TV 360
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-name="TRT Türk" group-title="Ulusal",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
