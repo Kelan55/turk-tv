@@ -1,76 +1,76 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ATV" group-title="Ulusal",ATV
+#EXTINF:-1 tvg-name="ATV" tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="Ulusal",ATV
 #EXTVLCOPT:http-referrer=https://www.atv.com.tr/
 #EXTVLCOPT:x-token=tmgrup
 #EXTVLCOPT:x-fallback=https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d1ce2d40-5256-4550-b02e-e73c185a314e
-#EXTINF:-1 tvg-name="ATV Avrupa" group-title="Ulusal",ATV Avrupa
+#EXTINF:-1 tvg-name="ATV Avrupa" tvg-logo="https://i.tmgrup.com.tr/aav/site/v1/i/atv-avrupa-logo.png" group-title="Ulusal",ATV Avrupa
 #EXTVLCOPT:http-referrer=https://www.atv.com.tr/
 #EXTVLCOPT:x-token=tmgrup
 https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8
-#EXTINF:-1 tvg-name="Kanal D" group-title="Ulusal",Kanal D
+#EXTINF:-1 tvg-name="Kanal D" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="Ulusal",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
-#EXTINF:-1 tvg-name="Star TV" group-title="Ulusal",Star TV
+#EXTINF:-1 tvg-name="Star TV" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="Ulusal",Star TV
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
 #EXTINF:-1 tvg-name="Show TV" group-title="Ulusal",Show TV
 https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web&ce=3
-#EXTINF:-1 tvg-name="TRT 1" group-title="Ulusal",TRT 1
+#EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png" group-title="Ulusal",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="Teve2" group-title="Ulusal",Teve2
 https://demiroren.daioncdn.net/teve2/teve2.m3u8?ce=3&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd
-#EXTINF:-1 tvg-name="Show Türk" group-title="Ulusal",Show Türk
+#EXTINF:-1 tvg-name="Show Türk" tvg-logo="https://i.imgur.com/fdZpGDj.png" group-title="Ulusal",Show Türk
 https://ciner.daioncdn.net/showturk/showturk.m3u8?app=web
-#EXTINF:-1 tvg-name="TV 360" group-title="Haber",TV 360
+#EXTINF:-1 tvg-name="TV 360" tvg-logo="https://i.imgur.com/agn47sQ.png" group-title="Haber",TV 360
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1 tvg-name="TRT Türk" group-title="Ulusal",TRT Türk
+#EXTINF:-1 tvg-name="TRT Türk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/960px-TRT_T%C3%BCrk_logo.svg.png" group-title="Ulusal",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="Kanal 7 Avrupa" group-title="Ulusal",Kanal 7 Avrupa
+#EXTINF:-1 tvg-name="Kanal 7 Avrupa" tvg-logo="https://i.imgur.com/wlfyj5l.png" group-title="Ulusal",Kanal 7 Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
-#EXTINF:-1 tvg-name="A Haber" group-title="Haber",A Haber
+#EXTINF:-1 tvg-name="A Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
-#EXTINF:-1 tvg-name="Habertürk" group-title="Haber",Habertürk
+#EXTINF:-1 tvg-name="Habertürk" tvg-logo="https://i.imgur.com/6Tw3rUp.png" group-title="Haber",Habertürk
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
-#EXTINF:-1 tvg-name="Halk TV" group-title="Haber",Halk TV
+#EXTINF:-1 tvg-name="Halk TV" tvg-logo="https://i.imgur.com/xM0HA30.png" group-title="Haber",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:-1 tvg-name="NTV" group-title="Haber",NTV
+#EXTINF:-1 tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/960px-NTV_%28Turkey%29_logo.svg.png" group-title="Haber",NTV
 https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
-#EXTINF:-1 tvg-name="TGRT Haber" group-title="Haber",TGRT Haber
+#EXTINF:-1 tvg-name="TGRT Haber" tvg-logo="https://i.imgur.com/PrxwKDw.png" group-title="Haber",TGRT Haber
 https://canli.tgrthaber.com/tgrt.m3u8
-#EXTINF:-1 tvg-name="TRT Haber" group-title="Haber",TRT Haber
+#EXTINF:-1 tvg-name="TRT Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/960px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png" group-title="Haber",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="A Spor" group-title="Spor",A Spor
+#EXTINF:-1 tvg-name="A Spor" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="Spor",A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
-#EXTINF:-1 tvg-name="HT Spor" group-title="Spor",HT Spor
+#EXTINF:-1 tvg-name="HT Spor" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" group-title="Spor",HT Spor
 #EXTVLCOPT:http-referrer=https://www.htspor.com/
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
-#EXTINF:-1 tvg-name="TJK TV" group-title="Spor",TJK TV
+#EXTINF:-1 tvg-name="TJK TV" tvg-logo="https://i.imgur.com/3zHdkYG.png" group-title="Spor",TJK TV
 #EXTVLCOPT:http-referrer=https://www.tjk.org/
 https://tjktv-live.tjk.org/tjktv.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS XTRA" group-title="Spor",beIN SPORTS XTRA
+#EXTINF:-1 tvg-name="beIN SPORTS XTRA" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Spor",beIN SPORTS XTRA
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS XTRA Español" group-title="Spor",beIN XTRA Español
+#EXTINF:-1 tvg-name="beIN SPORTS XTRA Español" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Spor",beIN XTRA Español
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
-#EXTINF:-1 tvg-name="FIFA+" group-title="Spor",FIFA+
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Spor",FIFA+
 https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-name="Real Madrid TV" group-title="Spor",Real Madrid TV
+#EXTINF:-1 tvg-name="Real Madrid TV" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Spor",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1 tvg-name="GLORY Kickboxing" group-title="Spor",GLORY Kickboxing
+#EXTINF:-1 tvg-name="GLORY Kickboxing" tvg-logo="https://i.imgur.com/tS7Ub7i.png" group-title="Spor",GLORY Kickboxing
 https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-name="MMA-TV" group-title="Spor",MMA-TV
+#EXTINF:-1 tvg-name="MMA-TV" tvg-logo="https://i.imgur.com/Qxco1eW.png" group-title="Spor",MMA-TV
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
-#EXTINF:-1 tvg-name="Red Bull TV" group-title="Spor",Red Bull TV
+#EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="Spor",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-name="minika Çocuk" group-title="Çocuk",minika Çocuk
+#EXTINF:-1 tvg-name="minika Çocuk" tvg-logo="https://i.imgur.com/VCywMTv.png" group-title="Çocuk",minika Çocuk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
-#EXTINF:-1 tvg-name="TRT Çocuk" group-title="Çocuk",TRT Çocuk
+#EXTINF:-1 tvg-name="TRT Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" group-title="Çocuk",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="24 TV (720p)" group-title="Ulusal",24 TV (720p)
+#EXTINF:-1 tvg-name="24 TV (720p)" tvg-logo="https://i.imgur.com/8FO41es.png" group-title="Ulusal",24 TV (720p)
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
-#EXTINF:-1 tvg-name="A2TV (1080p)" group-title="Ulusal",A2TV (1080p)
+#EXTINF:-1 tvg-name="A2TV (1080p)" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png" group-title="Ulusal",A2TV (1080p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
-#EXTINF:-1 tvg-name="CNBC-e" group-title="Ulusal",CNBC-e
+#EXTINF:-1 tvg-name="CNBC-e" tvg-logo="https://s.cnbce.com/dist/images/logo-nav.png" group-title="Ulusal",CNBC-e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
-#EXTINF:-1 tvg-name="Haber Global (720p) [Not 24/7]" group-title="Ulusal",Haber Global (720p) [Not 24/7]
+#EXTINF:-1 tvg-name="Haber Global (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/fu6XeGS.png" group-title="Ulusal",Haber Global (720p) [Not 24/7]
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
-#EXTINF:-1 tvg-name="Minika Go (720p)" group-title="Ulusal",Minika Go (720p)
+#EXTINF:-1 tvg-name="Minika Go (720p)" tvg-logo="https://i.imgur.com/qIoipDq.png" group-title="Ulusal",Minika Go (720p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
