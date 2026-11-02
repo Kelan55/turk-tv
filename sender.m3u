@@ -46,6 +46,20 @@ https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 tvg-name="TJK TV" group-title="Spor",TJK TV
 #EXTVLCOPT:http-referrer=https://www.tjk.org/
 https://tjktv-live.tjk.org/tjktv.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS XTRA" group-title="Spor",beIN SPORTS XTRA
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS XTRA Español" group-title="Spor",beIN XTRA Español
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+#EXTINF:-1 tvg-name="FIFA+" group-title="Spor",FIFA+
+https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-name="Real Madrid TV" group-title="Spor",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-name="GLORY Kickboxing" group-title="Spor",GLORY Kickboxing
+https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-name="MMA-TV" group-title="Spor",MMA-TV
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+#EXTINF:-1 tvg-name="Red Bull TV" group-title="Spor",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-name="minika Çocuk" group-title="Çocuk",minika Çocuk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 #EXTINF:-1 tvg-name="TRT Çocuk" group-title="Çocuk",TRT Çocuk
