@@ -26,6 +26,12 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="Kanal 7 Avrupa" tvg-logo="https://i.imgur.com/wlfyj5l.png" group-title="Ulusal",Kanal 7 Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+#EXTINF:-1 tvg-name="Kanal 7" tvg-logo="https://i.imgur.com/wlfyj5l.png" group-title="Ulusal",Kanal 7
+https://kanal7.daioncdn.net/kanal7/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
+#EXTINF:-1 tvg-name="Euro D" tvg-logo="https://www.eurod.tv/wp-content/uploads/2026/09/cropped-logo-icon1-270x270.png" group-title="Ulusal",Euro D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 tvg-name="Euro Star" tvg-logo="https://www.eurostartv.com.tr/img/eurostar-logo.png" group-title="Ulusal",Euro Star
+https://dygvideo.dygdigital.com/live/hls/staravrupa/live.m3u8?token=072d2d0a65d13f39a4dacba138d31830130b404390c771e3
 #EXTINF:-1 tvg-name="A Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
 #EXTINF:-1 tvg-name="Habertürk" tvg-logo="https://i.imgur.com/6Tw3rUp.png" group-title="Haber",Habertürk
