@@ -1,35 +1,52 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="360" group-title="Türkiye",360
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1 tvg-name="A Haber" group-title="Türkiye",A Haber
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
-#EXTINF:-1 tvg-name="Habertürk" group-title="Türkiye",Habertürk
-https://tv.ensonhaber.com/haberturk/haberturk.m3u8
-#EXTINF:-1 tvg-name="Halk TV" group-title="Türkiye",Halk TV
-https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:-1 tvg-name="Kanal 7" group-title="Türkiye",Kanal 7
-https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
-#EXTINF:-1 tvg-name="Kanal D" group-title="Türkiye",Kanal D
+#EXTINF:-1 tvg-name="ATV" group-title="Ulusal",ATV
+#EXTVLCOPT:http-referrer=https://www.atv.com.tr/
+#EXTVLCOPT:x-token=tmgrup
+#EXTVLCOPT:x-fallback=https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d1ce2d40-5256-4550-b02e-e73c185a314e
+#EXTINF:-1 tvg-name="ATV Avrupa" group-title="Ulusal",ATV Avrupa
+#EXTVLCOPT:http-referrer=https://www.atv.com.tr/
+#EXTVLCOPT:x-token=tmgrup
+https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8
+#EXTINF:-1 tvg-name="Kanal D" group-title="Ulusal",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
-#EXTINF:-1 tvg-name="minika Çocuk" group-title="Türkiye",minika Çocuk
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
-#EXTINF:-1 tvg-name="NTV" group-title="Türkiye",NTV
-https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
-#EXTINF:-1 tvg-name="Star TV" group-title="Türkiye",Star TV
+#EXTINF:-1 tvg-name="Star TV" group-title="Ulusal",Star TV
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
-#EXTINF:-1 tvg-name="TGRT Haber" group-title="Türkiye",TGRT Haber
-https://canli.tgrthaber.com/tgrt.m3u8
-#EXTINF:-1 tvg-name="TRT 1" group-title="Türkiye",TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRT Çocuk" group-title="Türkiye",TRT Çocuk
-https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRT Haber" group-title="Türkiye",TRT Haber
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRT Türk" group-title="Türkiye",TRT Türk
-https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="Show TV" group-title="Türkiye",Show TV
+#EXTINF:-1 tvg-name="Show TV" group-title="Ulusal",Show TV
 https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web&ce=3
-#EXTINF:-1 tvg-name="Teve2" group-title="Türkiye",Teve2
+#EXTINF:-1 tvg-name="TRT 1" group-title="Ulusal",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="Teve2" group-title="Ulusal",Teve2
 https://demiroren.daioncdn.net/teve2/teve2.m3u8?ce=3&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd
-#EXTINF:-1 tvg-name="Show Türk" group-title="Türkiye",Show Türk
+#EXTINF:-1 tvg-name="Show Türk" group-title="Ulusal",Show Türk
 https://ciner.daioncdn.net/showturk/showturk.m3u8?app=web
+#EXTINF:-1 tvg-name="360" group-title="Ulusal",360
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-name="TRT Türk" group-title="Ulusal",TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="Kanal 7 Avrupa" group-title="Ulusal",Kanal 7 Avrupa
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+#EXTINF:-1 tvg-name="A Haber" group-title="Haber",A Haber
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
+#EXTINF:-1 tvg-name="Habertürk" group-title="Haber",Habertürk
+https://tv.ensonhaber.com/haberturk/haberturk.m3u8
+#EXTINF:-1 tvg-name="Halk TV" group-title="Haber",Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1 tvg-name="NTV" group-title="Haber",NTV
+https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
+#EXTINF:-1 tvg-name="TGRT Haber" group-title="Haber",TGRT Haber
+https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1 tvg-name="TRT Haber" group-title="Haber",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="A Spor" group-title="Spor",A Spor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 tvg-name="HT Spor" group-title="Spor",HT Spor
+#EXTVLCOPT:http-referrer=https://www.htspor.com/
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+#EXTINF:-1 tvg-name="TJK TV" group-title="Spor",TJK TV
+#EXTVLCOPT:http-referrer=https://www.tjk.org/
+https://tjktv-live.tjk.org/tjktv.m3u8
+#EXTINF:-1 tvg-name="minika Çocuk" group-title="Çocuk",minika Çocuk
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+#EXTINF:-1 tvg-name="TRT Çocuk" group-title="Çocuk",TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
