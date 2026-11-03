@@ -86,3 +86,5 @@ https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:-1 tvg-name="Tele 1 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png" group-title="Ulusal",Tele 1 (1080p)
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
+#EXTINF:-1 tvg-name="TRT 2 (1440p) [Geo-blocked]" tvg-logo="https://i.imgur.com/iOCQdyD.png" group-title="Ulusal",TRT 2 (1440p) [Geo-blocked]
+https://tv-trt2.medya.trt.com.tr/master.m3u8
