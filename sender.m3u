@@ -80,3 +80,5 @@ https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-name="Minika Go (720p)" tvg-logo="https://i.imgur.com/qIoipDq.png" group-title="Ulusal",Minika Go (720p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+#EXTINF:-1 tvg-name="Dream Turk (720p)" tvg-logo="https://i.imgur.com/vJ8VaZi.png" group-title="Ulusal",Dream Turk (720p)
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
